@@ -1,0 +1,7 @@
+fastapi
+requests
+Pillow
+imageio-ffmpeg
+yt-dlp
+anthropic
+vercel
